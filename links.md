@@ -9,5 +9,6 @@ It makes some of the commands you use on this course understandable
 
 [Basic Git Commands | Atlassian Git Tutorial] (https://www.atlassian.com/git/glossary) --- Examples of basic git commands. Have extra tutorial to make git commands more comprehensible and it's useful for programming in general
 
+[Bash Scripting - Introduction to Bash and Bash Scripting] (https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/) --- Introduction to bash language for unix. Important to make heads or tails of a bash program that literally pop out of nowhere in this course (at least for me)
 <br>
 <hr>
