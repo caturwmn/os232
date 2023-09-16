@@ -6,5 +6,5 @@ cwmn
 -
 || [Log](TXT/mylog.txt) ||
 -
-|| [LINKS](LINKS/) ||
+|| [LINKS](links.md) ||
 -
