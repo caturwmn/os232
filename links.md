@@ -17,5 +17,7 @@ It makes some of the commands you use on this course understandable
 
 [What is Makefile for C program compilation and How to create Makefile?
 ](https://www.includehelp.com/c-programming-questions/what-is-makefile.aspx) --- A simple makefile tutorial. The most comprehensible makefile tutorial i found
+
+[Public-key (asymmetric) Cryptography using GPG](https://medium.com/@GalarnykMichael/public-key-asymmetric-cryptography-using-gpg-5a8d914c9bca) --- A tutorial about gpg. Useful for W05 Pop Quiz
 <br>
 <hr>
