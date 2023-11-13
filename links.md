@@ -20,6 +20,13 @@ It makes some of the commands you use on this course understandable.
 
 [Public-key (asymmetric) Cryptography using GPG](https://medium.com/@GalarnykMichael/public-key-asymmetric-cryptography-using-gpg-5a8d914c9bca) --- A tutorial about gpg. Useful for W05 Pop Quiz.
 
+[what-does-it-mean-by-gpg-encrypting-a-file-with-multiple-recipients?](https://unix.stackexchange.com/questions/607240/what-does-it-mean-by-gpg-encrypting-a-file-with-multiple-recipients) --- A forum that contains a guide to encrypt a file with multiple recipient. An indirect solution to encrypt tar files for W05, W06, W07 Pop Quiz
+
 [GeeksforGeeks SCP tutorial](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/) --- More information regarding SCP. Helps me understand more about scp usecases.
+
+[Make Tech Easier - How to import and export vb ova files](https://www.maketecheasier.com/import-export-ova-files-in-virtualbox/) --- A Guide on how to export and import ova files in VirtualBox. Helpful when you don't realize the option is already there in the VM manager.
+
+[How to change username in debian](https://forums.debian.net/viewtopic.php?t=60683) --- A forum that contains a short guide on how to change username in debian. Fixes Week07 report text since my debian username is different with my username in os1.cs.ui.ac.id
+
 <br>
 <hr>
