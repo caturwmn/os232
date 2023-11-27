@@ -28,6 +28,9 @@ It makes some of the commands you use on this course understandable.
 
 [How to change username in debian](https://forums.debian.net/viewtopic.php?t=60683) --- A forum that contains a short guide on how to change username in debian. Fixes Week07 report text since my debian username is different with my username in os1.cs.ui.ac.id
 
-[Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.0/) --- A book for building a linux os from scratch. Literally the fundamentals of this week assignment
+[Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.0/) --- A book for building a linux os from scratch. Literally 
+the fundamentals of this week assignment
+
+[Kernotex's LFS chapter 7 guide](https://www.youtube.com/watch?v=y8uAMEK0FVc) --- A video for LFS chapter 7. helpful when i get  lost or cinfused during chapter 7 of LFS/
 <br>
 <hr>
